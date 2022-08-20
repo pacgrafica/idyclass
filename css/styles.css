@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blue;
+}
+
+.imac {
+    background-color: chartreuse;
+}
+
+.version2021 {
+    font-size: 100px;
+    color: yellow;
+}
+
+#instructor {
+    font-size: 80px;
+    color: white;
+}
